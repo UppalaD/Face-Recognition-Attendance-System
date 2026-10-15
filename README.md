@@ -118,10 +118,7 @@ This project should retain the license and attribution of the original repositor
 
 This version is adapted and customized for personal learning and portfolio development from the original **AttendRx: Smart Face Recognition-Based Attendance System** project.
 
-Original repository:
-https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System
 
-Original contributors include **Onkar Mendhapurkar, Praneet Mahendrakar, and Prabhat Shankar**.
 
 ## Contact
 
