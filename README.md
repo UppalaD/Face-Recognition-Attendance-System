@@ -121,6 +121,8 @@ This version is adapted and customized for personal learning and portfolio devel
 
 
 ## Contact
+
 For any inquiries or feedback, please contact us at:
+
 Email : erandidahanayaka@gmail.com
 GitHub : https://github.com/UppalaD
